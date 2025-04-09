@@ -1,1 +1,1 @@
-# myGit2
+for my dear git!
